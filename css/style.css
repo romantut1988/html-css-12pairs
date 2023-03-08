@@ -506,6 +506,7 @@ header {
   justify-content: space-between;
 }
 .works {
+  cursor: pointer;
   position: relative;
   margin-bottom: 30px;
 }
